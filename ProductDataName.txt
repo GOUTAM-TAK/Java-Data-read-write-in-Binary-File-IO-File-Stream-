@@ -1,0 +1,7 @@
+Product [pId=2, name=Copy, quantity=10.0, price=500.0, category=GOOD]
+Product [pId=1, name=Gapp, quantity=30.0, price=125.0, category=GOOD]
+Product [pId=1, name=Pen, quantity=20.0, price=100.0, category=BAD]
+Product [pId=1, name=Pullu, quantity=20.0, price=1000.0, category=VERYBAD]
+Product [pId=1, name=Sangle, quantity=25.0, price=150.0, category=VERYBAD]
+Product [pId=1, name=Vaishali, quantity=20.0, price=2300.0, category=BAD]
+Product [pId=1, name=gullu, quantity=20.0, price=325.0, category=BAD]
